@@ -4,10 +4,10 @@ def square_array(array)
  while i < array.length do 
    squared_number = array[i] ** 2 
    new_square_array.push(squared_number)
-   
-   
-   
- end
+   i += 1 
+  end
+  new_square_array
+end 
 
 
 
