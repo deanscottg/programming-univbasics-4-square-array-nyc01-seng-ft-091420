@@ -1,10 +1,6 @@
 def square_array(array)
   new_square_array = []
  
-new_square_array.push()
-end
-new_square_array
-end
 
 
 
